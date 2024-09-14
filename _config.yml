@@ -25,7 +25,7 @@ author:
   name             : "Shibam GHOSH"
   pronouns         : "He/Him"  
   bio              : "PhD Student"
-  location         : "Room 558, Port Campus, University of Haifa"
+  location         : "Room 558, Port Campus"
   employer         : "University of Haifa, Haifa, Israel"
   uri              : "shibamcrs.github.io"
   email            : "shibam.math@gmail.com" 
@@ -35,7 +35,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=T8mYHjQAAAAJ&hl=en"
   orcid            : # URL
   semantic         : # URL
-  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
@@ -56,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "shibamcrs"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
