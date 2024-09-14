@@ -12,7 +12,7 @@ title                    : "Shibam's Homepage"
 title_separator          : "-"
 name                     : &name "Shibam Ghosh"
 description              : &description "personal description"
-url                      : "https://https://shibamcrs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://https://shibamcrs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShibamCrS/ShibamCrS.github.io"
 
