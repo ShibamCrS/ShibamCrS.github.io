@@ -39,3 +39,18 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Dark mode styles
+body.dark-mode {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+}
+
+body.dark-mode a {
+  color: #8ab4f8;
+}
+
+body.dark-mode .site-header,
+body.dark-mode .footer {
+  background-color: #333;
+}
