@@ -50,7 +50,14 @@ body.dark-mode a {
   color: #8ab4f8;
 }
 
-body.dark-mode .site-header,
+/* Dark mode for the header */
+body.dark-mode .site-header {
+  background-color: #333; /* Change header background */
+  color: #e0e0e0; /* Change header text color */
+}
+
+/* Dark mode for the footer */
 body.dark-mode .footer {
-  background-color: #333;
+  background-color: #333; /* Change footer background */
+  color: #e0e0e0; /* Change footer text color */
 }
