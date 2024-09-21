@@ -61,3 +61,12 @@ body.dark-mode .footer {
   background-color: #333; /* Change footer background */
   color: #e0e0e0; /* Change footer text color */
 }
+
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-mode .site-header,
+body.dark-mode .footer {
+  transition: background-color 0.3s, color 0.3s;
+}
