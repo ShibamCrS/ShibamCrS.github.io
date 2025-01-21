@@ -11,7 +11,7 @@ redirect_from:
 
 ![Overview Of Cryptanalysis](/images/cryptanalysis.png){: width="512px"}
 
-- I'm a final year **PhD** student in the [Department of Computer Science](https://cs.hevra.haifa.ac.il/index.php/en/) at the [University of Haifa](https://www.haifa.ac.il/?lang=en), working with [Prof. Orr Dunkelman](https://www.cs.haifa.ac.il/~orrd/)
+- I have submitted my **PhD** thesis in the [Department of Computer Science](https://cs.hevra.haifa.ac.il/index.php/en/) at the [University of Haifa](https://www.haifa.ac.il/?lang=en), under the supervision of [Prof. Orr Dunkelman](https://www.cs.haifa.ac.il/~orrd/)
 
 - Prior to my PhD, I did two masters from India
   - M.Tech in Cryptology and Security from [Indian Statistical Institute (ISI)](https://www.isical.ac.in/) Kolkata
