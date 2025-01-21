@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shibam GHOSH"
-  pronouns         : "He/Him"  
-  bio              : "PhD Student"
-  location         : "Room 558, Port Campus"
-  employer         : "University of Haifa, Haifa, Israel"
+  pronouns         : "He/Him"
+  bio              : "Engineer R&D"
+  location         : "B316, 48 Rue Barrault, 75013 Paris"
+  employer         : "Le centre Inria de Paris"
   uri              : "shibamcrs.github.io"
   email            : "shibam.math@gmail.com" 
 
