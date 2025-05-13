@@ -11,7 +11,7 @@ redirect_from:
 
 ![Overview Of Cryptanalysis](/images/cryptanalysis.png){: width="512px"}
 
-- I am a Postdoctoral Fellow in the [COSMIQ](https://www.rocq.inria.fr/secret/index-en.html) team at the French National Institute for Research in Digital Science and Technology ([INRIA, Paris](https://www.inria.fr/en)), working with [Léo Perrin](https://who.paris.inria.fr/Leo.Perrin/)
+- I am a Research Engineer in the [COSMIQ](https://www.rocq.inria.fr/secret/index-en.html) team at the French National Institute for Research in Digital Science and Technology ([INRIA, Paris](https://www.inria.fr/en)), working with [Léo Perrin](https://who.paris.inria.fr/Leo.Perrin/)
 
 - I have submitted my **PhD** thesis in the [Department of Computer Science](https://cs.hevra.haifa.ac.il/index.php/en/) at the [University of Haifa](https://www.haifa.ac.il/?lang=en), under the supervision of [Prof. Orr Dunkelman](https://www.cs.haifa.ac.il/~orrd/)
 
