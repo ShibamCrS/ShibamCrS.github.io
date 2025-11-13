@@ -14,7 +14,7 @@ redirect_from:
 - I am a Postdoctoral Researcher/Research Engineer in the [COSMIQ](https://www.rocq.inria.fr/secret/index-en.html) team at the French National Institute for Research in Digital Science and Technology ([INRIA, Paris](https://www.inria.fr/en)), working with [Léo Perrin](https://who.paris.inria.fr/Leo.Perrin/)
 
 - I have completed my **PhD** thesis in the [Department of Computer Science](https://cs.hevra.haifa.ac.il/index.php/en/) at the [University of Haifa](https://www.haifa.ac.il/?lang=en), under the supervision of [Prof. Orr Dunkelman](https://www.cs.haifa.ac.il/~orrd/)
-- Thesis: [Mathematical Techniques in Symmetric-Key Cryptanalysis](https://haifa.alma.exlibrisgroup.com/discovery/delivery/972HAI_MAIN:HAU/12347270280002791?lang=en)
+  - Thesis: [Mathematical Techniques in Symmetric-Key Cryptanalysis](https://haifa.alma.exlibrisgroup.com/discovery/delivery/972HAI_MAIN:HAU/12347270280002791?lang=en)
 
 - Prior to my PhD, I did two masters from India
   - M.Tech in Cryptology and Security from [Indian Statistical Institute (ISI)](https://www.isical.ac.in/) Kolkata
