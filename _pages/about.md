@@ -24,8 +24,8 @@ redirect_from:
   - Master's Dissertation: [On the QIC of quadratic APN functions](https://inria.hal.science/hal-03135737/)
 
 - Research Interests
-  - Practical Aspects of Cryptanalysis
   - Design and Cryptanalysis of Symmetric-key Primitives
+  - Security Analysis of Cryptographic Implementations
+  - Practical Aspects of Cryptanalysis
   - Lightweight Cryptography
-  - Implementation Attacks
   - Zero-Knowledge Protocols
