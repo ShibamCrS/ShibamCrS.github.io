@@ -27,20 +27,32 @@ import re
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
     "proceeding": {
-        "file" : "proceedings.bib",
+        "file" : "conference.bib",
         "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
+        "venue-pretext": "",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
         
     },
     "journal":{
-        "file": "pubs.bib",
+        "file": "journal.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
-    } 
+    },
+    "preprint":{
+        "file": "preprint.bib",
+        "venuekey" : "howpublished",
+        "venue-pretext" : "",
+        "collection" : {"name":"publications",
+                        "permalink":"/publication/"}
+    }
+}
+CATEGORY_MAP = {
+    "proceeding": "conferences",
+    "journal": "journals",
+    "preprint": "preprints"
 }
 
 html_escape_table = {
@@ -118,7 +130,7 @@ for pubsource in publist:
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
-            
+            md += "\ncategory: " + CATEGORY_MAP.get(pubsource, "conferences") + "\n" 
             note = False
             if "note" in b.keys():
                 if len(str(b["note"])) > 5:

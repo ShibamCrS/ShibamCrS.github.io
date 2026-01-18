@@ -6,7 +6,9 @@
 
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=T8mYHjQAAAAJ&hl=en
+    url: /publications/
+  # - title: "Google Scholar"
+  #   url: https://scholar.google.com/citations?user=T8mYHjQAAAAJ&hl=en
 
   - title: "CV"
     url: /files/cv.pdf

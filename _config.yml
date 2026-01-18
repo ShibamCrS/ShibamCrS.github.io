@@ -22,12 +22,12 @@ repository               : "ShibamCrS/ShibamCrS.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Shibam GHOSH"
+  name             : "Shibam Ghosh"
   pronouns         : "He/Him"
-  bio              : "R&D"
+  bio              : "Cryptography Researcher"
   location         : "B316, 48 Rue Barrault, 75013 Paris"
   employer         : "Inria de Paris"
-  uri              : "shibamcrs.github.io"
+  uri              : "https://shibamcrs.github.io"
   email            : "shibam.ghosh@inria.fr" 
 
   # Academic websites
@@ -75,11 +75,12 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  preprints:
+    title: 'Preprints'
   conferences:
     title: 'Conference Papers'
-
+  journals:
+    title: 'Journal Articles'    
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -114,7 +115,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -212,7 +213,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /publication/:path/
   portfolio:
     output: false
     permalink: /:collection/:path/

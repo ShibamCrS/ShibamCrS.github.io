@@ -51,7 +51,7 @@ body.dark-mode a {
 }
 
 /* Dark mode for the header */
-body.dark-mode .site-header {
+body.dark-mode .masthead {
   background-color: #333; /* Change header background */
   color: #e0e0e0; /* Change header text color */
 }
@@ -67,6 +67,16 @@ body {
 }
 
 body.dark-mode .site-header,
-body.dark-mode .footer {
+body.dark-mode .page__footer {
   transition: background-color 0.3s, color 0.3s;
+}
+
+/* Publication category headings */
+.archive .page__content h2 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5em;
+}
+
+body.dark-mode .archive .page__content h2 {
+  border-bottom: 1px solid #555;
 }
