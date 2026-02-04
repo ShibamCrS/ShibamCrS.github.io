@@ -27,12 +27,18 @@ My research focuses on the design and cryptanalysis of symmetric-key cryptograph
 
 
 ## Service
-### Program Committee Member
-- Fast Software Encryption (FSE) 2027
-- Lightweight Cryptography for Security and Privacy (LightSEC) 2025
-- Information Security Conference (ISC) 2025
+- **Member of the Editorial Board** of the [IACR Transactions on Symmetric Cryptology (ToSC)](https://tosc.iacr.org/index.php/ToSC/Board) for the years **2026–2027**.
 
-### Reviewer
-- Journal of Information Security and Applications (JISAS) 2025
-- Designs, Codes and Cryptography (DCC) 2025, 2024, 2023, 2022
-- Finite Fields and Their Applications (FFA) 2025
+- **Program Committee Member (Conferences):**
+  - [Information Security Conference (ISC)](https://isc25.skku.edu/committee/) 2025
+  - [Lightweight Cryptography for Security and Privacy (LightSEC)](https://www.encrypt-on.com/activities/conferences/lightsec-2025/conference-organization/) 2025
+
+- **Reviewer for Journals:**
+  - [Designs, Codes and Cryptography (DCC)](https://link.springer.com/journal/10623) 2025, 2024, 2023, 2022
+  - [Finite Fields and Their Applications (FFA)](https://www.sciencedirect.com/journal/finite-fields-and-their-applications) 2025
+
+- **Reviewer for Conferences:**
+  - [EUROCRYPT](https://eurocrypt.iacr.org/) 2026
+  - [ACM ASIACCS](https://asiaccs2026.cse.iitkgp.ac.in/) 2026
+  - [ASIACRYPT](https://asiacrypt.iacr.org/) 2024
+  - [Selected Areas in Cryptography (SAC)](https://sacworkshop.org/) 2025, 2024
