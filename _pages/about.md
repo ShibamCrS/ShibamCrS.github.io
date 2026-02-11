@@ -36,6 +36,8 @@ My research focuses on the design and cryptanalysis of symmetric-key cryptograph
 - **Reviewer for Journals:**
   - [Designs, Codes and Cryptography (DCC)](https://link.springer.com/journal/10623) 2025, 2024, 2023, 2022
   - [Finite Fields and Their Applications (FFA)](https://www.sciencedirect.com/journal/finite-fields-and-their-applications) 2025
+  - [Journal of Information Security and Applications (JISA)](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications} 2025
+
 
 - **Reviewer for Conferences:**
   - [EUROCRYPT](https://eurocrypt.iacr.org/) 2026
