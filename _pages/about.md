@@ -31,15 +31,17 @@ My research focuses on the design and cryptanalysis of symmetric-key cryptograph
 
 - **Program Committee Member (Conferences):**
   - [Information Security Conference (ISC)](https://isc25.skku.edu/committee/) 2025
-  - [Lightweight Cryptography for Security and Privacy (LightSEC)](https://www.encrypt-on.com/activities/conferences/lightsec-2025/conference-organization/) 2025
+  - [Lightweight Cryptography for Security and Privacy (LightSEC)](https://www.encrypt-on.com/activities/conferences/lightsec-2025/conference-organization/) 2026, 2025
 
 - **Reviewer for Journals:**
   - [Designs, Codes and Cryptography (DCC)](https://link.springer.com/journal/10623) 2025, 2024, 2023, 2022
   - [Finite Fields and Their Applications (FFA)](https://www.sciencedirect.com/journal/finite-fields-and-their-applications) 2025
+  - [ACM Transactions on Privacy and Security (TOPS)](https://dl.acm.org/journal/tops) 2025
   - [Journal of Information Security and Applications (JISA)](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications) 2025
 
 
-- **Reviewer for Conferences:**
+- **External Reviewer for Conferences:**
+  - [CRYPTO](https://crypto.iacr.org/) 2026
   - [EUROCRYPT](https://eurocrypt.iacr.org/) 2026
   - [ACM ASIACCS](https://asiaccs2026.cse.iitkgp.ac.in/) 2026
   - [ASIACRYPT](https://asiacrypt.iacr.org/) 2024
