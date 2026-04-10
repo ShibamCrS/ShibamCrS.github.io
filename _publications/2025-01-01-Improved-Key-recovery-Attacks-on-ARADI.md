@@ -6,7 +6,6 @@ category: preprints
 
 date: 2025-01-01
 venue: 'Cryptology ePrint Archive, Paper 2025/1227'
-paperurl: 'https://eprint.iacr.org/2025/1227'
-citation: ' Orr Dunkelman,  Shibam Ghosh, &quot;Improved Key-recovery Attacks on ARADI.&quot; Cryptology ePrint Archive, Paper 2025/1227, 2025.'
+authors: 'Orr Dunkelman, **Shibam Ghosh**'
 ---
 [Access paper here](https://eprint.iacr.org/2025/1227){:target="_blank"}
