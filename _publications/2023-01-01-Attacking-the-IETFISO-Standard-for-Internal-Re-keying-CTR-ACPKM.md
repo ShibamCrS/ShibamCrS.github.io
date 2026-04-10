@@ -5,7 +5,7 @@ permalink: /publication/2023-01-01-Attacking-the-IETFISO-Standard-for-Internal-R
 category: journals
 
 date: 2023-01-01
-venue: 'IACR Trans. Symmetric Cryptol. (TOSC)'
+venue: 'IACR Transactions on Symmetric Cryptology (TOSC)'
 authors: 'Orr Dunkelman, **Shibam Ghosh**, Eran Lambooij'
 paperurl: 'https://eprint.iacr.org/2023/230'
 ---

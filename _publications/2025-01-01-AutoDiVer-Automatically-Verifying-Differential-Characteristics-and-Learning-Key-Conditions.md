@@ -5,7 +5,7 @@ permalink: /publication/2025-01-01-AutoDiVer-Automatically-Verifying-Differentia
 category: journals
 
 date: 2025-01-01
-venue: 'IACR Trans. Symmetric Cryptol. (TOSC)'
+venue: 'IACR Transactions on Symmetric Cryptology (TOSC)'
 authors: 'Marcel Nageler, **Shibam Ghosh**, Marlene J{\&quot;{u}}ttler, Maria Eichlseder'
 paperurl: 'https://eprint.iacr.org/2025/185'
 ---

@@ -5,7 +5,7 @@ permalink: /publication/2025-01-01-Differential-Cryptanalysis-of-the-Reduced-Poi
 category: journals
 
 date: 2025-01-01
-venue: 'IACR Trans. Symmetric Cryptol. (TOSC)'
+venue: 'IACR Transactions on Symmetric Cryptology (TOSC)'
 authors: 'Roberto Avanzi, Orr Dunkelman, **Shibam Ghosh**'
 paperurl: 'https://eprint.iacr.org/2025/321'
 ---

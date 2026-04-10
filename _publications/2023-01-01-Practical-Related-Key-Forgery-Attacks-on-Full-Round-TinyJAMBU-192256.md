@@ -5,7 +5,7 @@ permalink: /publication/2023-01-01-Practical-Related-Key-Forgery-Attacks-on-Full
 category: journals
 
 date: 2023-01-01
-venue: 'IACR Trans. Symmetric Cryptol. (TOSC)'
+venue: 'IACR Transactions on Symmetric Cryptology (TOSC)'
 authors: 'Orr Dunkelman, **Shibam Ghosh**, Eran Lambooij'
 paperurl: 'https://eprint.iacr.org/2022/1122'
 ---
