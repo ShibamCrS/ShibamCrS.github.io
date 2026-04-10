@@ -7,4 +7,5 @@ category: conferences
 date: 2025-01-01
 venue: 'Advances in Cryptology -- Proceedings of EUROCRYPT'
 authors: 'Yanis Belkheyar, Patrick Derbez, **Shibam Ghosh**, Gregor Leander, Silvia Mella, L{\&apos;{e}}o Perrin, Shahram Rasoolzadeh, Lukas Stennes, Siwei Sun, Gilles Assche, Damian Viz{\&apos;{a}}r'
+paperurl: 'https://eprint.iacr.org/2025/308'
 ---

@@ -7,4 +7,5 @@ category: conferences
 date: 2022-01-01
 venue: 'Progress in Cryptology -- INDOCRYPT'
 authors: 'Nilanjan Datta, Avijit Dutta, **Shibam Ghosh**'
+paperurl: 'https://eprint.iacr.org/2022/1414'
 ---

@@ -7,4 +7,5 @@ category: conferences
 date: 2021-01-01
 venue: 'hrefhttps://boolean.w.uib.no/bfa-2021/Boolean Functions and their Applications (BFA) 2021'
 authors: '**Shibam Ghosh**, L{\&apos;e}o Perrin'
+paperurl: 'https://boolean.w.uib.no/files/2021/08/BFA_2021_abstract_16.pdf'
 ---

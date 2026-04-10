@@ -7,4 +7,5 @@ category: journals
 date: 2025-01-01
 venue: 'IACR Trans. Symmetric Cryptol. (TOSC)'
 authors: 'Nilanjan Datta, Avijit Dutta, **Shibam Ghosh**, Eik List, Hrithik Nandi'
+paperurl: 'https://eprint.iacr.org/2024/2053'
 ---

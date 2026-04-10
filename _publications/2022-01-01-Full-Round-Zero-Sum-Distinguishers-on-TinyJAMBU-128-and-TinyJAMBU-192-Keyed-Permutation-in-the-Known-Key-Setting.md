@@ -7,4 +7,5 @@ category: conferences
 date: 2022-01-01
 venue: 'Progress in Cryptology -- INDOCRYPT'
 authors: 'Orr Dunkelman, **Shibam Ghosh**, Eran Lambooij'
+paperurl: 'https://eprint.iacr.org/2022/1567'
 ---

@@ -5,6 +5,6 @@ permalink: /publication/2025-01-01-DIFA-Rent-Division-Property-Based-Fault-Attac
 category: preprints
 
 date: 2025-01-01
-venue: 'Cryptology ePrint Archive, Paper 2025/2053'
 authors: '**Shibam Ghosh**, Anup Kundu, Dhiman Saha'
+paperurl: 'https://eprint.iacr.org/2025/2053'
 ---

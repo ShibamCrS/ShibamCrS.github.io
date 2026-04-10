@@ -7,4 +7,5 @@ category: journals
 date: 2025-01-01
 venue: 'IACR Trans. Cryptogr. Hardw. Embed. Syst. (TCHES)'
 authors: 'Anup Kundu, **Shibam Ghosh**, Aikata Aikata, Dhiman Saha'
+paperurl: 'https://eprint.iacr.org/2024/1927'
 ---

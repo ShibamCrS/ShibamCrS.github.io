@@ -5,6 +5,6 @@ permalink: /publication/2024-01-01-BBB-Secure-Arbitrary-Length-Tweak-TBC-from-n-
 category: preprints
 
 date: 2024-01-01
-venue: 'Cryptology ePrint Archive, Paper 2024/2049'
 authors: 'Arghya Bhattacharjee, Ritam Bhaumik, Nilanjan Datta, Avijit Dutta, **Shibam Ghosh**, Sougata Mandal'
+paperurl: 'https://eprint.iacr.org/2024/2049'
 ---
