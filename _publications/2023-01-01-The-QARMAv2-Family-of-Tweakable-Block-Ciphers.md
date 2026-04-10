@@ -8,4 +8,3 @@ date: 2023-01-01
 venue: 'IACR Trans. Symmetric Cryptol. (TOSC)'
 authors: 'Roberto Avanzi, Subhadeep Banik, Orr Dunkelman, Maria Eichlseder, **Shibam Ghosh**, Marcel Nageler, Francesco Regazzoni'
 ---
-[Access paper here](https://eprint.iacr.org/2023/929){:target="_blank"}

@@ -8,4 +8,3 @@ date: 2024-01-01
 venue: 'Advances in Cryptology -- Proceedings of EUROCRYPT'
 authors: 'Orr Dunkelman, **Shibam Ghosh**, Nathan Keller, Ga{\&quot;{e}}tan Leurent, Avichai Marmor, Victor Mollimard'
 ---
-[Access paper here](https://eprint.iacr.org/2023/1659){:target="_blank"}

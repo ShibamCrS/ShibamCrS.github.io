@@ -8,4 +8,3 @@ date: 2021-01-01
 venue: 'Progress in Cryptology -- LATINCRYPT'
 authors: '**Shibam Ghosh**, Orr Dunkelman'
 ---
-[Access paper here](https://eprint.iacr.org/2021/965){:target="_blank"}

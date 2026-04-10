@@ -8,4 +8,3 @@ date: 2023-01-01
 venue: 'Applied Cryptography and Network Security (ACNS)'
 authors: 'Anup Kundu, **Shibam Ghosh**, Dhiman Saha, Mostafizar Rahman'
 ---
-[Access paper here](https://eprint.iacr.org/2023/682){:target="_blank"}

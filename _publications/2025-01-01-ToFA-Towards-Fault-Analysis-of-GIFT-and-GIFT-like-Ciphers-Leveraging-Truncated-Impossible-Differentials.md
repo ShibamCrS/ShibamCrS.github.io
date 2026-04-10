@@ -8,4 +8,3 @@ date: 2025-01-01
 venue: 'IACR Trans. Cryptogr. Hardw. Embed. Syst. (TCHES)'
 authors: 'Anup Kundu, **Shibam Ghosh**, Aikata Aikata, Dhiman Saha'
 ---
-[Access paper here](https://eprint.iacr.org/2024/1927){:target="_blank"}

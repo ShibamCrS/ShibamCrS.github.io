@@ -8,4 +8,3 @@ date: 2024-01-01
 venue: 'Proceedings of Information Security Conference (ISC)'
 authors: 'Ravi Anand, **Shibam Ghosh**, Takanori Isobe, Rentaro Shiba'
 ---
-[Access paper here](https://eprint.iacr.org/2024/1278){:target="_blank"}

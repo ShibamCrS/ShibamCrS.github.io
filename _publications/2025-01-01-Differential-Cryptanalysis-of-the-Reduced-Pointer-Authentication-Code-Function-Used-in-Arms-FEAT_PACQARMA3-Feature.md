@@ -8,4 +8,3 @@ date: 2025-01-01
 venue: 'IACR Trans. Symmetric Cryptol. (TOSC)'
 authors: 'Roberto Avanzi, Orr Dunkelman, **Shibam Ghosh**'
 ---
-[Access paper here](https://eprint.iacr.org/2025/321){:target="_blank"}

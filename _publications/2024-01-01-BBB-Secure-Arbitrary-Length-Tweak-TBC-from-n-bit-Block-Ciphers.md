@@ -8,4 +8,3 @@ date: 2024-01-01
 venue: 'Cryptology ePrint Archive, Paper 2024/2049'
 authors: 'Arghya Bhattacharjee, Ritam Bhaumik, Nilanjan Datta, Avijit Dutta, **Shibam Ghosh**, Sougata Mandal'
 ---
-[Access paper here](https://eprint.iacr.org/2024/2049){:target="_blank"}

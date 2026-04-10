@@ -8,4 +8,3 @@ date: 2025-01-01
 venue: 'Cryptology ePrint Archive, Paper 2025/2053'
 authors: '**Shibam Ghosh**, Anup Kundu, Dhiman Saha'
 ---
-[Access paper here](https://eprint.iacr.org/2025/2053){:target="_blank"}

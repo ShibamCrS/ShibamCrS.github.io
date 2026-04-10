@@ -8,4 +8,3 @@ date: 2025-01-01
 venue: 'Cryptology ePrint Archive, Paper 2025/1918'
 authors: '**Shibam Ghosh**, Bastien Michel, María Naya-Plasencia'
 ---
-[Access paper here](https://eprint.iacr.org/2025/1918){:target="_blank"}

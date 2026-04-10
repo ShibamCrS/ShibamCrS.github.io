@@ -149,8 +149,8 @@ for pubsource in publist:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
             # Only the "Access paper here" link is kept; Google Scholar fallback removed
-            if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n"
+            # if url:
+            #     md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n"
 
             md_filename = os.path.basename(md_filename)
 

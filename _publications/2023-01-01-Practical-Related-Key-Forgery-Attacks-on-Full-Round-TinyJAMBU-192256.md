@@ -8,4 +8,3 @@ date: 2023-01-01
 venue: 'IACR Trans. Symmetric Cryptol. (TOSC)'
 authors: 'Orr Dunkelman, **Shibam Ghosh**, Eran Lambooij'
 ---
-[Access paper here](https://eprint.iacr.org/2022/1122){:target="_blank"}
