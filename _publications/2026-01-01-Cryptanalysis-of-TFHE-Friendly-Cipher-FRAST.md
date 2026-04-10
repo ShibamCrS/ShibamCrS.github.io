@@ -6,6 +6,6 @@ category: journals
 
 date: 2026-01-01
 venue: 'IACR Transactions on Symmetric Cryptology (TOSC)'
-authors: 'Antoine Bak, **Shibam Ghosh**, Fukang Liu, Willi Meier, Jianqiang Ni, L{\&apos;{e}}o Perrin'
+authors: 'Antoine Bak, **Shibam Ghosh**, Fukang Liu, Willi Meier, Jianqiang Ni, Léo Perrin'
 paperurl: 'https://eprint.iacr.org/2025/1346'
 ---

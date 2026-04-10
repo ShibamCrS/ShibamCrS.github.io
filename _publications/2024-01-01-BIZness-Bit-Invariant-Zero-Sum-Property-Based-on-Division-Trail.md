@@ -5,6 +5,6 @@ permalink: /publication/2024-01-01-BIZness-Bit-Invariant-Zero-Sum-Property-Based
 category: conferences
 
 date: 2024-01-01
-venue: 'Progress in Cryptology -- INDOCRYPT'
+venue: 'Progress in Cryptology – INDOCRYPT'
 authors: '**Shibam Ghosh**, Anup Kundu, Mostafizar Rahman, Dhiman Saha'
 ---

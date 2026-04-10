@@ -5,7 +5,7 @@ permalink: /publication/2024-01-01-Partial-Sums-Meet-FFT-Improved-Attack-on-6-Ro
 category: conferences
 
 date: 2024-01-01
-venue: 'Advances in Cryptology -- Proceedings of EUROCRYPT'
-authors: 'Orr Dunkelman, **Shibam Ghosh**, Nathan Keller, Ga{\&quot;{e}}tan Leurent, Avichai Marmor, Victor Mollimard'
+venue: 'Advances in Cryptology – Proceedings of EUROCRYPT'
+authors: 'Orr Dunkelman, **Shibam Ghosh**, Nathan Keller, Gaëtan Leurent, Avichai Marmor, Victor Mollimard'
 paperurl: 'https://eprint.iacr.org/2023/1659'
 ---

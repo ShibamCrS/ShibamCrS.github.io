@@ -18,6 +18,7 @@
 from pybtex.database.input import bibtex
 import pybtex.database.input.bibtex 
 from time import strptime
+from pylatexenc.latex2text import LatexNodes2Text
 import string
 import html
 import os
@@ -63,6 +64,14 @@ def html_escape(text):
     """Produce entities within text."""
     return "".join(html_escape_table.get(c,c) for c in text)
 
+# ── LaTeX to Unicode converter ─────────────────────────────────────────────────
+def latex_to_unicode(text):
+    """Convert LaTeX special characters to proper Unicode."""
+    try:
+        return LatexNodes2Text().latex_to_text(text)
+    except:
+        return text
+# ──────────────────────────────────────────────────────────────────────────────
 
 for pubsource in publist:
     parser = bibtex.Parser()
@@ -103,8 +112,9 @@ for pubsource in publist:
             # ── Build Authors string ───────────────────────────────────────────
             authors_list = []
             for author in bibdata.entries[bib_id].persons["author"]:
-                first_name = author.first_names[0] if author.first_names else ""
-                last_name  = author.last_names[0]  if author.last_names  else ""
+                # ── Convert LaTeX special chars to Unicode for each name part ──
+                first_name = latex_to_unicode(author.first_names[0]) if author.first_names else ""
+                last_name  = latex_to_unicode(author.last_names[0])  if author.last_names  else ""
                 full_name  = f"{first_name} {last_name}".strip()
                 if first_name == "Shibam" and last_name == "Ghosh":
                     full_name = "**Shibam Ghosh**"
@@ -113,7 +123,10 @@ for pubsource in publist:
             # ──────────────────────────────────────────────────────────────────
 
             ## YAML front matter
-            md = "---\ntitle: \"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
+            # ── Convert LaTeX in title too ─────────────────────────────────────
+            clean_b_title = latex_to_unicode(b["title"].replace("{", "").replace("}","").replace("\\",""))
+            md = "---\ntitle: \"" + html_escape(clean_b_title) + '"\n'
+            # ──────────────────────────────────────────────────────────────────
             
             md += "collection: " + publist[pubsource]["collection"]["name"]
             md += "\npermalink: " + publist[pubsource]["collection"]["permalink"] + html_filename
@@ -127,21 +140,19 @@ for pubsource in publist:
 
             md += "\ndate: " + str(pub_date)
 
-            # ── Skip venue entirely for preprints ─────────────────────────────
+            # ── Skip venue for preprints, convert LaTeX in venue too ───────────
             if pubsource != "preprint":
                 venue = (publist[pubsource]["venue-pretext"]
-                         + b[publist[pubsource]["venuekey"]]
-                         .replace("{", "").replace("}","").replace("\\",""))
+                         + latex_to_unicode(b[publist[pubsource]["venuekey"]]
+                         .replace("{", "").replace("}","").replace("\\","")))
                 md += "\nvenue: '" + html_escape(venue) + "'"
             # ──────────────────────────────────────────────────────────────────
 
             md += "\nauthors: '" + html_escape(authors) + "'"
 
-            # ── Keep paperurl for "Access paper here" link ────────────────────
             if "url" in b.keys():
                 if len(str(b["url"])) > 5:
                     md += "\npaperurl: '" + b["url"] + "'"
-            # ──────────────────────────────────────────────────────────────────
 
             md += "\n---"
 

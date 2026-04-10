@@ -6,6 +6,6 @@ category: journals
 
 date: 2025-01-01
 venue: 'IACR Transactions on Symmetric Cryptology (TOSC)'
-authors: 'Marcel Nageler, **Shibam Ghosh**, Marlene J{\&quot;{u}}ttler, Maria Eichlseder'
+authors: 'Marcel Nageler, **Shibam Ghosh**, Marlene Jüttler, Maria Eichlseder'
 paperurl: 'https://eprint.iacr.org/2025/185'
 ---
