@@ -6,6 +6,7 @@ category: conferences
 
 date: 2021-01-01
 venue: 'Progress in Cryptology -- LATINCRYPT'
+paperurl: 'https://eprint.iacr.org/2021/965'
 citation: ' Shibam Ghosh,  Orr Dunkelman, &quot;Automatic Search for Bit-Based Division Property.&quot; Progress in Cryptology -- LATINCRYPT, 2021.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Automatic+Search+for+Bit+Based+Division+Property){:target="_blank"} for full citation
+[Access paper here](https://eprint.iacr.org/2021/965){:target="_blank"}

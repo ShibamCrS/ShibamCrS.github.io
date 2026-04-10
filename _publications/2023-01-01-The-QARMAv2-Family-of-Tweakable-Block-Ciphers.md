@@ -6,6 +6,7 @@ category: journals
 
 date: 2023-01-01
 venue: 'IACR Trans. Symmetric Cryptol. (TOSC)'
+paperurl: 'https://eprint.iacr.org/2023/929'
 citation: ' Roberto Avanzi,  Subhadeep Banik,  Orr Dunkelman,  Maria Eichlseder,  Shibam Ghosh,  Marcel Nageler,  Francesco Regazzoni, &quot;The QARMAv2 Family of Tweakable Block Ciphers.&quot; IACR Trans. Symmetric Cryptol. (TOSC), 2023.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=The+QARMAv2+Family+of+Tweakable+Block+Ciphers){:target="_blank"} for full citation
+[Access paper here](https://eprint.iacr.org/2023/929){:target="_blank"}
