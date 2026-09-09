@@ -30,6 +30,7 @@ My research focuses on the design and cryptanalysis of symmetric-key cryptograph
 - **Member of the Editorial Board** of the [IACR Transactions on Symmetric Cryptology (ToSC)](https://tosc.iacr.org/index.php/ToSC/Board) for the years **2026–2027**.
 
 - **Program Committee Member (Conferences):**
+  - [EUROCRYPT](https://eurocrypt.iacr.org/) 2027
   - [Information Security Conference (ISC)](https://isc25.skku.edu/committee/) 2025
   - [Lightweight Cryptography for Security and Privacy (LightSEC)](https://www.encrypt-on.com/activities/conferences/lightsec-2025/conference-organization/) 2026, 2025
 
